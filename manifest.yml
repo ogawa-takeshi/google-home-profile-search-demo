@@ -1,0 +1,7 @@
+applications:
+- name: profile-demo
+  path: target/demo-0.0.1-SNAPSHOT.jar
+  routes:
+  - route: profile-demo.cfapps.io
+  services:
+    - profile-db

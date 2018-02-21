@@ -1,0 +1,27 @@
+{
+	"responseId": "8dabb00d-d1dc-4874-ab03-91e79f2f2888",
+	"queryResult": {
+		"queryText": "小川さんの血液型を教えて",
+		"parameters": {
+			"what": "血液型",
+			"last-name": "小川"
+		},
+		"allRequiredParamsPresent": true,
+		"fulfillmentMessages": [
+			{
+				"text": {
+					"text": [
+						""
+					]
+				}
+			}
+		],
+		"intent": {
+			"name": "projects/profile-demo-f9c51/agent/intents/8d6d1fa3-999c-4206-abc5-d992d56670bf",
+			"displayName": "プロフィールインテント"
+		},
+		"intentDetectionConfidence": 1,
+		"diagnosticInfo": {},
+		"languageCode": "ja"
+	}
+}
